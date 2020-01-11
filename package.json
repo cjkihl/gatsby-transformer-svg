@@ -33,6 +33,10 @@
   "peerDependencies": {
     "gatsby": "^2.0.15"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caki0915/gatsby-transformer-svg"
+  },
   "engines": {
     "node": ">=8.0.0"
   },
