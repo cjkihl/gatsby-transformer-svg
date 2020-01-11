@@ -37,6 +37,9 @@
     "type": "git",
     "url": "git+https://github.com/caki0915/gatsby-transformer-svg"
   },
+  "bugs": {
+    "url" : "https://github.com/caki0915/gatsby-transformer-svg/issues"
+  },
   "engines": {
     "node": ">=8.0.0"
   },
@@ -47,5 +50,5 @@
   ],
   "files": ["gatsby-node.js"],
   "author": "Carl-Johan Kihl",
-  "license": "ISC"
+  "license": "MIT"
 }
