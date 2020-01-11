@@ -1,0 +1,4 @@
+/gatsby-node.js
+/parseSvg.js
+node_modules
+package-lock.json
