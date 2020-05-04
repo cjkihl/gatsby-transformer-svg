@@ -27,7 +27,7 @@
     "eslint-plugin-react": "7.19.0",
     "babel-eslint": "8.2.6",
     "eslint-plugin-flowtype": "2.50.3",
-    "prettier-eslint": "8.8.2",
+    "prettier-eslint": "9.0.1",
     "prettier-eslint-cli": "4.7.1"
   },
   "peerDependencies": {
