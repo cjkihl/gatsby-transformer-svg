@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.9.6",
-    "mini-svg-data-uri": "1.1.3",
+    "mini-svg-data-uri": "1.4.4",
     "svgo": "1.3.2"
   },
   "devDependencies": {
